@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tylor Data Services, LLC Launches Site"
+title: "Tylor Data Services Launches Site"
 date: 2018-04-19
 ---
 
