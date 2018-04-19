@@ -1,2 +1,3 @@
 name: Tylor Data Services, LLC
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
