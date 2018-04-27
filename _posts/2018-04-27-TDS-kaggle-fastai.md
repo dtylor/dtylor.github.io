@@ -15,8 +15,9 @@ To run this code, I created the file download.sh to run in background even if co
 	#python -u script.py test.json test
 	#python -u script.py validation.json validation
 And ran it in the background with this command, allowing me to check progress periodically in the output text file *downloadOut*:
-	#nohup sh download.sh > downloadOut &
-
+```
+nohup sh download.sh > downloadOut &
+```
 I wrote this simple python function to parse the json files to a format acceptable to the fast.ai api 
 ```
 	def createImageCSV(_dataset):
@@ -36,8 +37,8 @@ I wrote this simple python function to parse the json files to a format acceptab
 	createImageCSV('validation')		
 ```
 In this [jupyter notebook] (/kaggle/imaterialist/imaterialist.ipynb/), I assessed a sample image and the distribution of image sizes in the training set.
-![Sample Image from kaggle dataset](images/imaterialist/imaterialist_sampleImage.jpg)
-![Distribution of image sizes] (images/imaterialist/imaterialist_imageWidthDistribution)
+![Sample Image from kaggle dataset](https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_sampleImage.jpg)
+![Distribution of image sizes] (https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_imageWidthDistribution)
 Here is the [code](kaggle/imaterialist/iMaterialist.py) used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background via the file  
 *trainModel.sh*
 ```
