@@ -18,22 +18,23 @@ And ran it in the background with this command, allowing me to check progress pe
 	#nohup sh download.sh > downloadOut &
 
 I wrote this simple python function to parse the json files to a format acceptable to the fast.ai api 
-	#def createImageCSV(_dataset):
-		#fn ='data/imaterialist/'+_dataset+'.json'
-		#outfn='data/imaterialist/'+_dataset+'.csv'
-		#f = open(fn, 'r') 
-		#outf  = open(outfn, 'w') 
-		#data = json.load(f)
-		#ano =  data["annotations"]
-		#for ano in data["annotations"]:
-			#imageId = ano["imageId"]
-			#labelId = ano["labelId"]
-			#outf.write(imageId + ".jpg," + ' '.join(labelId)+'\n')
-		#f.close
-		#outf.close
-	#createImageCSV('train')
-	#createImageCSV('validation')		
-
+```
+	def createImageCSV(_dataset):
+		fn ='data/imaterialist/'+_dataset+'.json'
+		outfn='data/imaterialist/'+_dataset+'.csv'
+		f = open(fn, 'r') 
+		outf  = open(outfn, 'w') 
+		data = json.load(f)
+		ano =  data["annotations"]
+		for ano in data["annotations"]:
+			imageId = ano["imageId"]
+			labelId = ano["labelId"]
+			outf.write(imageId + ".jpg," + ' '.join(labelId)+'\n')
+		f.close
+		outf.close
+	createImageCSV('train')
+	createImageCSV('validation')		
+```
 In this [jupyter notebook] (../kaggle/imaterialist/imaterialist.ipynb), I assessed a sample image and the distribution of image sizes in the training set.
 ![Sample Image from kaggle dataset](../images/imaterialist/imaterialist_sampleImage.jpg)
 ![Distribution of image sizes] (../images/imaterialist/imaterialist_imageWidthDistribution)
