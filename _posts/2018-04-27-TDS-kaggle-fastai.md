@@ -38,12 +38,12 @@ I wrote this simple python function to parse the json files to a format acceptab
 In this [jupyter notebook] (kaggle/imaterialist/imaterialist.ipynb), I assessed a sample image and the distribution of image sizes in the training set.
 ![Sample Image from kaggle dataset](images/imaterialist/imaterialist_sampleImage.jpg)
 ![Distribution of image sizes] (images/imaterialist/imaterialist_imageWidthDistribution)
-Here is the [code](kaggle/imaterialist/iMaterialist.py) used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background 
+Here is the [code](kaggle/imaterialist/iMaterialist.py) used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background via the file  
 *trainModel.sh*
 ```
 python -u iMaterialist.py
 ```
-In the shell, I launched the script with this command
+and launched the script with this command
 ```
 nohup sh trainModel.sh > trainModelOut &
 ```
