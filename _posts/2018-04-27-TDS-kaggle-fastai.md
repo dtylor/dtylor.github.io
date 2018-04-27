@@ -9,7 +9,7 @@ This post is a brief description of my experience using fast.ai to solve a chall
 
 I followed fairly closely the code presented in [lesson 3] (http://course.fast.ai/lessons/lesson3.html).  Most of my work was involved in setting up the GPU environment in paperspace (machine for $0.4/hr) following Jeremy's instructions, downloading the images, creating csv files from the provided jsons for training, validation and test and running the models. I made the mistake of not sampling my data and running over all of the data provided, but this turned out to be a good opportunity for me to create background shell scripts overnight to run my python code (prior to this step, every time my connection to paperspace failed I would need to rerun my jupyter notebook).
 
-To download the images, I borrowed from this [script] (https://www.kaggle.com/nlecoy/imaterialist-downloader-util?scriptVersionId=3068456 ) provided by a fellow kaggler.  I edited his script to increase the maximum number of files downloaded and changed the quality of the jpgs to 100%. Following Jeremy's tip I downloaded the Chrome extension curlwget and used it to download the python script directly to the paperspace GPU machine.
+To download the images, I borrowed from this [script](https://www.kaggle.com/nlecoy/imaterialist-downloader-util?scriptVersionId=3068456 "Script to download images") provided by a fellow kaggler.  I edited his script to increase the maximum number of files downloaded and changed the quality of the jpgs to 100%. Following Jeremy's tip I downloaded the Chrome extension curlwget and used it to download the python script directly to the paperspace GPU machine.
 To run this code, I created the file download.sh to run in background even if connection is broken:
 	#python -u script.py train.json train
 	#python -u script.py test.json test
@@ -38,7 +38,7 @@ I wrote this simple python function to parse the json files to a format acceptab
 ```
 In this [jupyter notebook](https://github.com/dtylor/dtylor.github.io/tree/master/kaggle/imaterialist/imaterialist.ipynb "Notebook to assess data"), I assessed a sample image and the distribution of image sizes in the training set.
 ![Sample Image from kaggle dataset](https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_sampleImage.jpg)
-![Distribution of image sizes] (https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_imageWidthDistribution)
+![Distribution of image sizes](https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_imageWidthDistribution.jpg)
 Here is the [code](https://github.com/dtylor/dtylor.github.io/tree/master/kaggle/imaterialist/iMaterialist.py "Train Model") used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background via the file  
 *trainModel.sh*
 ```
