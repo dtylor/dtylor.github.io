@@ -36,10 +36,10 @@ I wrote this simple python function to parse the json files to a format acceptab
 	createImageCSV('train')
 	createImageCSV('validation')		
 ```
-In this [jupyter notebook] (/kaggle/imaterialist/imaterialist.ipynb/), I assessed a sample image and the distribution of image sizes in the training set.
+In this [jupyter notebook](https://github.com/dtylor/dtylor.github.io/tree/master/kaggle/imaterialist/imaterialist.ipynb "Notebook to assess data"), I assessed a sample image and the distribution of image sizes in the training set.
 ![Sample Image from kaggle dataset](https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_sampleImage.jpg)
 ![Distribution of image sizes] (https://github.com/dtylor/dtylor.github.io/tree/master/images/iMaterialist/imaterialist_imageWidthDistribution)
-Here is the [code](kaggle/imaterialist/iMaterialist.py) used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background via the file  
+Here is the [code](https://github.com/dtylor/dtylor.github.io/tree/master/kaggle/imaterialist/iMaterialist.py "Train Model") used to train the model, incrementing in data size from 64x64 to 128X128 to 300X300.  The code took about a day to run on my $.4.hr GPU machine.  I ran it in the background via the file  
 *trainModel.sh*
 ```
 python -u iMaterialist.py
@@ -50,4 +50,4 @@ nohup sh trainModel.sh > trainModelOut &
 ```
 It would have been much faster if I had simply sampled to a smaller set.  
 
-The test results of the saved model are reviewed [here](kaggle/imaterialist/imaterialist_reviewResults.ipynb).  The final f2 metric (I believe slightly different than what was dictated by the competition, but comparable) was 0.5657 which would put me approximately in 13th place at the time of writing this post.
+The test results of the saved model are reviewed [here](https://github.com/dtylor/dtylor.github.io/tree/master/kaggle/imaterialist/imaterialist_reviewResults.ipynb "Notebook to review model results"). The final f2 metric (I believe slightly different than what was dictated by the competition, but comparable) was 0.5657 which would put me approximately in 13th place at the time of writing this post.
