@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Kaggle Competition - Fast.ai experiment"
+title: "A Testament to Power and Simplicity. TDS Rates Top 15 percent in Kaggle Competition, Fast.ai Experiment"
 date: 2018-04-27
 ---
-This post is a brief description of my experience using fast.ai to attempt this multi-label image classification [Kaggle competition](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018 "iMaterialist Kaggle Competition").  With little experience in deep learning, I was able to achieve results that would currently put my submission around 13th place in the competition.  This is no statement about my own abilities, but a testament to the power and simplicity of what is offered by fast.ai.  Unfortunately I missed the initial entry deadline for the competition.  I will share the code I used.  This post is not meant in any way to be a guide to best practices, but rather another example of how a data scientist can start using deep learning today.
+How can a data scientist start using deep learning today and make an immediate impact?  
+That was my motivation. So I decided to enter a worldwide data science competition. I am excited to share a brief description of my experience using fast.ai to attempt this multi-label image classification Kaggle competition [Kaggle competition](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018 "iMaterialist Kaggle Competition"). 
+
+With little experience in deep learning, I was able to achieve results that would currently put my submission around 13th place in the competition.  This is no statement about my own abilities, but a testament to the power and simplicity of what is offered by fast.ai.  Unfortunately I missed the initial entry deadline for the competition.  I will share the code I used.  This post is not meant in any way to be a guide to best practices, but rather another example of how a data scientist can start using deep learning today.
 
 [Fast.ai](http://www.fast.ai/ "Fast.ai") is a wonderful open source resource for practitioners and data scientists to incorporate world class deep learning into their daily analytical challenges. Jeremy Howard and Rachel Thomas have provided an easy to use api and set of straight forward instructions and examples to demystify neural networks and give practical guidance to the everyday user.  Besides providing this helpful and benevolent service, they also donate proceeds to a charity.  Kudos to Jeremy and Rachel for their kind service to the 'little' guy; you don't need to work at Google to solve difficult challenges well. 
 
