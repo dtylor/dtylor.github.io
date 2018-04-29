@@ -11,3 +11,5 @@ Deborah Tylor holds the following degrees:
 B.A. in Physics and a B.E. in Environmental Engineering from Dartmouth College 
 
 M.S. in Physical Oceanography from University of Hawaii, SOEST (results from research were published in the Journal of Physical Oceanography).
+
+Deborah is a proud mother and wife and active member at our local, Catholic parish.
