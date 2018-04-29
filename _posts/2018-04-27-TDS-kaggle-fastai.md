@@ -4,7 +4,7 @@ title: "A Testament to Power and Simplicity: TDS Rates Top 15 percent in Kaggle 
 date: 2018-04-27
 ---
 How can a data scientist start using deep learning today and make an immediate impact?  
-That was my motivation to enter a worldwide data science competition. I am excited to share a brief description of my experience using fast.ai to attempt this multi-label image classification Kaggle competition [Kaggle competition](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018 "iMaterialist Kaggle Competition"). 
+That was my motivation to enter a worldwide data science competition. I am excited to share a brief description of my experience using fast.ai to attempt this multi-label image classification [Kaggle competition](https://www.kaggle.com/c/imaterialist-challenge-fashion-2018 "iMaterialist Kaggle Competition"). 
 
 With little experience in deep learning, I was able to achieve results that would currently put my submission around 13th place in the competition, or top 15%.  This is no statement about my own abilities, but a testament to the power and simplicity of what is offered by fast.ai.  Unfortunately I missed the initial entry deadline for the competition.  I will share the code I used.  This post is not meant in any way to be a guide to best practices, but rather another example of how a data scientist can start using deep learning today.
 
