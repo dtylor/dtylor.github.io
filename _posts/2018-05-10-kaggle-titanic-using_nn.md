@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Another Fast.ai Experiment - applying fast.ai to a structured data prediction challenge (Titanic: Machine Learning from Disaster)"
+date: 2018-05-10
+---
+This notebook is a modified version of a [fast.ai notebook](https://github.com/fastai/fastai/blob/master/courses/dl1/lesson3-rossman.ipynb) by Jeremy Howard used to show how neural networks can be applied to structured data sets.  The original code has been modified to solve the [Kaggle Titanic challenge](https://www.kaggle.com/c/titanic) which seeks to predict passenger survival based on various properties (such as gender, age, name etc...).  As Jeremy noted, this notebook contains an implementation of the third place result in the Rossman Kaggle competition as detailed in Guo/Berkhahn's [Entity Embeddings of Categorical Variables](https://arxiv.org/abs/1604.06737).
+
+This data set is probably not an ideal use of a neural network since there are so few data points ( < 900 passenger rows in the training set), but I was interested in seeing how to modify Jeremy's code to handle binary classifications.  I was advised how to do so by this [post](http://forums.fast.ai/t/structured-learner/8224/44) discussing prediction of categorical labels using a neural network given structured data input.  The modification from Jeremy's lecture involved changing the loss metric from root-mean-squared percent error used for a continuous prediction variable to a binary classification using the nll_loss function and changing the last layer in the MixedInputModel to use log_softmax (thanks to Rony Lutsky's [contribution](https://github.com/fastai/fastai/pull/305)).  My submission yielded a fairly average score of 77%, again probably not the best suited problem for a neural network.
