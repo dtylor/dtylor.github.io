@@ -13,6 +13,7 @@ M.S. Physical Oceanography, University of Hawaii, SOEST (results from research w
 Deborah is a proud mother and wife and active member at our local, Catholic parish.
 ---
 
+
 <img src="images/JH.jpg">
 ## Joseph Haaga, Data Scientist
 Software designer and web developer with a data science knowledge base. 
@@ -20,6 +21,7 @@ Software designer and web developer with a data science knowledge base.
 B.S. Computer Science, George Washington University
 
 ---
+
 
 <img src="images/ss.jpg">
 ## Sook Seo, Data Analyst
