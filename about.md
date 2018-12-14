@@ -12,7 +12,7 @@ M.S. Physical Oceanography, University of Hawaii, SOEST (results from research w
 Deborah is a proud mother and wife and active member at our local, Catholic parish.
 ---
 
-<img src="images/JH_pic.jpg">
+<img src="images/JH.png">
 ## Joseph Haaga, Data Scientist
 Software designer and web developer with a data science knowledge base. 
 Poised to envision the future that is Graph Analytics and make it into reality.
@@ -20,7 +20,7 @@ Poised to envision the future that is Graph Analytics and make it into reality.
 B.S. Computer Science, George Washington University
 ---
 
-<img src="images/SS_pic.jpg">
+<img src="images/SS.png">
 ## Sook Seo, Data Analyst
 An ex-Wall Streeter with a desire to make a difference and make things better. 
 Will work just for the fun of the project at hand and the people involved. 
