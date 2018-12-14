@@ -16,7 +16,7 @@ Deborah is a proud mother and wife and active member at our local, Catholic pari
 <img src="images/JH.png">
 ## Joseph Haaga, Data Scientist
 Software designer and web developer with a data science knowledge base. 
-Poised to envision the future that is Graph Analytics and make it into reality.
+Able to envision Graph Analytics and make it into reality.
 
 B.S. Computer Science, George Washington University
 
