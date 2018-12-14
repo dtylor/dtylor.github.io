@@ -22,7 +22,7 @@ B.S. Computer Science, George Washington University
 
 ---
 
-<img src="images/ss.jpg">
+<img src="images/shs.jpg">
 ## Sook Seo, Data Analyst
 An ex-Wall Streeter with a desire to make a difference and make things better. 
 Will work just for the fun of the project at hand and the people involved. 
