@@ -21,6 +21,8 @@ Software designer and web developer with a data science knowledge base who can p
 
 B.S. Computer Science, George Washington University
 
+M.S. Data Science, George Washington University
+
 ---
 
 
