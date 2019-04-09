@@ -5,12 +5,12 @@ date: 2019-03-06
 ---
 Applying Deep Learning to graph analysis is an emerging field that is yielding promising results. Our approach [WalkRNN] (https://github.com/dtylor/WalkRNN) described below leverages research in learning continuous feature representations for nodes in networks, layers in features captured in property graph attributes and labels, and uses Deep Learning language modeling to train the computer to read the ‘story’ of a graph. The computer can then translate this learned graph literacy into actionable knowledge such as graph classification tasks.
 
-Graph’s flexibility presents challenges
+**Graph’s flexibility presents challenges
 Graph provides a flexible data modeling and storage structure that can represent real-life data, which rarely fits neatly into a fixed structure (such as an image fixed size) or repeatable method of analysis. Graph heterogeneity, node local context, and role within a larger graph have in the past been difficult to express with repeatable analytical processes. Because of this challenge, graph applications historically were limited to presenting this information in small networks that a human can visually inspect and reason over its ‘story’ and meaning. This approach fails then to contemplate many sub-graphs in an automated fashion and limits the ability to conduct top-down analytics across the entire population of data in a timely manner. Deep Learning is an ideal tool to help mine graph of latent patterns and hidden knowledge.
 
 In the past, it has proven difficult to apply machine learning algorithms to graph. Methods often reduce the degrees of freedom by fixing the structure in a repeatable pattern, such as looking at individual nodes and their immediate neighbors, so the data can then be consumed by tensor-oriented algorithms. The rich information captured by the local graph topology can be lost with simplifications, making it difficult to derive local sub-structures, latent communities and larger structural concepts in the graph.
 
-Research — Machine Learning applied to Graph
+**Research — Machine Learning applied to Graph
 Research in the past few years has made strides in a class of approaches that learn, in an unsupervised way, continuous feature representations for nodes in nhttps://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) etworks, such that features are sensitive to the local neighborhood of the node. With these feature representations (stored in vector space), nodes can be analyzed in terms of the communities they belong to or the structural roles of nodes in the network. Jure Leskovec and others at Stanford have contributed research and performant algorithms in this space:
 
 - The [node2vec] (https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf) paper gives a background of research that uses the Random Walk method to represent a network as a ‘document’ that is sensitive to edge weight and local topology of the starting node (similar to the SkipGram Word2Vec algorithm).
@@ -21,7 +21,7 @@ Deep learning graph classification and other supervised machine learning tasks r
 
 Our results below are compared to the DGCNN [paper](https://www.cse.wustl.edu/~muhan/papers/AAAI_2018_DGCNN.pdf) (and related [benchmarks](https://medium.com/crim/deep-learning-applied-to-graphs-586ce63bb28e)) to illustrate how a language model (RNN) can also be used to classify graphs. In cases where rich information is stored in graph properties (e.g. attributes and labels), our approach produces superior results and can potentially be applied to cases of free text passages stored in graph properties (look for future posts on this topic).
 
-Language Model over graph
+**Language Model over graph
 Property graph can contain contextual and rich information in its properties, both on the nodes and edges, and also captures information about larger network organizations and how the parts interact to create the whole. The goal of our approach is to learn the ‘story’ of a sub-graph. We accomplish this through a few simple steps.
 
 - Our [code WalkRNN](https://github.com/dtylor/WalkRNN) first enriches an existing property graph with featurization such as the structural role of nodes(using GraphWave) and collapses categorical and continuous data in attributes and labels into repeated ‘words’ globally present within the graph.
@@ -32,10 +32,10 @@ Property graph can contain contextual and rich information in its properties, bo
 
 - For every component, our code randomly selects walks and concatenates them together into a ‘paragraph’ of cuts through the graph, ideally long enough to cover the scope of the graph regions and to capture the gist of the component type. Finally, these paragraphs per component are passed into an RNN classifier using transfer learning from the pre-trained RNN language model and predicts the label for the component.
 
-WalkRNN vs DGCNN in graph classification
+**WalkRNN vs DGCNN in graph classification
 The effectiveness of this method really shines for certain types of graphs (in the AIDS case, for example, it correctly predicted the class for 400 out of 400 graphs), and the results seem to speak for themselves.
 
-[INSERT GRAPH HERE]
+![alt text](https://github.com/dtylor.github.io/images/Table1.png "Logo Title Table 1")
 
 The results above are dependent on parameters (such as dropout, learning rate, neural network # hidden layers and #RNNS, walk length, # structural GraphWave ‘words’), and repeated runs were required to fine-tune results. The DD data set only includes node labels and edges (ie no node/ edge attributes or edge labels), and the power in enriching the graph ‘story’ with properties is not really demonstrated. MUTAG seemed less stable in training as there were so few examples (only 188 graphs).
 
@@ -45,7 +45,7 @@ The accuracy in Table 1 shows our accuracy at predicting test graphs (typically 
 
 If you find this approach interesting or helpful, please feel free to email us at info@tylordata.com for further information.
 
-Community Inspiration
+**Community Inspiration
 Special thanks to the DGCNN team, Jeremy Howard and his fast.ai deep learning project, Jure Leskovec and researchers at Stanford, and TU Dortmund Dept of Computer Science for their great contributions to the community of graph and deep learning enthusiasts.
 
 [WalkRNN](https://github.com/dtylor/WalkRNN) is the brainchild of Deborah Tylor, owner of [Tylor Data Services, LLC](http://tylordata.com/). Key contributor to the code and ideas is Joseph Hagaa. Thanks also to Mirco Mannucci and Elena Romanova for inspiration and Sook Seo for moral support and graphical aids. And, in everything, thank you Jesus.
