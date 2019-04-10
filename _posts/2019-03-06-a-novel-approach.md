@@ -45,7 +45,7 @@ The accuracy in Table 1 shows our accuracy at predicting test graphs (typically 
 
 If you find this approach interesting or helpful, please feel free to email us at info@tylordata.com for further information.
 
-**Community Inspiration
+**Community Inspiration**
 Special thanks to the DGCNN team, Jeremy Howard and his fast.ai deep learning project, Jure Leskovec and researchers at Stanford, and TU Dortmund Dept of Computer Science for their great contributions to the community of graph and deep learning enthusiasts.
 
 [WalkRNN](https://github.com/dtylor/WalkRNN) is the brainchild of Deborah Tylor, owner of [Tylor Data Services, LLC](http://tylordata.com/). Key contributor to the code and ideas is Joseph Hagaa. Thanks also to Mirco Mannucci and Elena Romanova for inspiration and Sook Seo for moral support and graphical aids. And, in everything, thank you Jesus.
