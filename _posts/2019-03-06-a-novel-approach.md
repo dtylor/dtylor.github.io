@@ -35,7 +35,7 @@ Property graph can contain contextual and rich information in its properties, bo
 **WalkRNN vs DGCNN in graph classification**
 The effectiveness of this method really shines for certain types of graphs (in the AIDS case, for example, it correctly predicted the class for 400 out of 400 graphs), and the results seem to speak for themselves.
 
-![alt text](https://github.com/dtylor/images/Table1.png "Table 1")
+![alt text](https://dtylor.github.io/images/Table1.png "Table 1")
 
 The results above are dependent on parameters (such as dropout, learning rate, neural network # hidden layers and #RNNS, walk length, # structural GraphWave ‘words’), and repeated runs were required to fine-tune results. The DD data set only includes node labels and edges (ie no node/ edge attributes or edge labels), and the power in enriching the graph ‘story’ with properties is not really demonstrated. MUTAG seemed less stable in training as there were so few examples (only 188 graphs).
 
