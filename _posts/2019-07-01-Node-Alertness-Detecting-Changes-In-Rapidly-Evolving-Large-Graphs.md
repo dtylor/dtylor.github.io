@@ -22,4 +22,4 @@ time step. Here we propose a ﬁnancial local alertness application for cointegr
 **Keywords**
 spark  pregel  real-time data processing  big data  financial monitoring  graph processing
 
-Read [[Node Alertness Detecting Changes In Rapidly Evolving Large Graphs: A Preprint]] (https://www.academia.edu/39730507/NODE_ALERTNESS_DETECTING_CHANGES_IN_RAPIDLY_EVOLVING_GRAPHS?email_work_card=title)
+Read [Node Alertness Detecting Changes In Rapidly Evolving Large Graphs: A Preprint] (https://www.academia.edu/39730507/NODE_ALERTNESS_DETECTING_CHANGES_IN_RAPIDLY_EVOLVING_GRAPHS?email_work_card=title)
