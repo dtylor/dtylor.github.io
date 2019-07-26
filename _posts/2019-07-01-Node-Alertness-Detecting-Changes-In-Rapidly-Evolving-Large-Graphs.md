@@ -4,11 +4,11 @@ title: "Node Alertness Detecting Changes In Rapidly Evolving Large Graphs: A Pre
 date: 2019-07-01
 ---
 
-Co-Authors:
+Co-Author:
 **Mirco A. Mannucci**
 HoloMathics, LLC
 mirco@holomathics.com
-
+Co-Author:
 **Deborah Tylor**
 Tylor Data Services, LLC
 dtylor@tylordata.com
