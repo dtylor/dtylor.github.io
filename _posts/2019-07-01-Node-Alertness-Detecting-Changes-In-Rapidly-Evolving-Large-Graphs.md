@@ -24,4 +24,3 @@ time step. Here we propose a ﬁnancial local alertness application for cointegr
 
 Read [Node Alertness Detecting Changes In Rapidly Evolving Large Graphs](https://www.academia.edu/39730507/NODE_ALERTNESS_DETECTING_CHANGES_IN_RAPIDLY_EVOLVING_GRAPHS?email_work_card=title)
 
-[Access the github repository](https://github.com/dtylor/nodealertness.git)
