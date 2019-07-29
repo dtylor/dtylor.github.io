@@ -11,7 +11,7 @@ The key notion involved is local alertness: nodes monitor change within their ne
 Here we propose a financial local alertness application for cointegrated stock pairs
 
 ## 2018 - 2019
-Development of graph cypher query-based analytical tool for government fraud analysis.
+Awarded IRS contract to develop a graph cypher query-based analytical tool for tax fraud analysis.
 
 ## Sep 15, 2015
 FINRA has success tracking the migration of brokers with a pattern of sales practice abuse.  This successful investigation shows the potential of applying tribe and social network analysis to finding bad actors as they move from firm to firm.
