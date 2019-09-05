@@ -10,7 +10,7 @@ Abstract: In this article we describe a new approach for detecting changes in ra
 The key notion involved is local alertness: nodes monitor change within their neighborhoods at each time step. 
 Here we propose a financial local alertness application for cointegrated stock pairs
 
-## TDS PROVIDING A Solution For The Research, Applied Analytics and Statistics Division at the IRS using Graph Analytics
+## TDS Providing A Solution For The Research, Applied Analytics and Statistics Division at the IRS using Graph Analytics
 ## Nov 28, 2018
 Tylor Data Services, LLC, a firm specializing in advanced graph analytics, deep learning and data science (www.tylordata.com) is working with the IRS’s Research, Applied Analytics & Statistics (RAAS) Data Exploration & Testing (DET) division to develop Knowledge Graph tools to enable graph analytics and help with the division’s mission.  
 TDS’ graph analytics solution builds on the division’s Knowledge Graph environment and provides tools to enable end-users to search for graph patterns and examine data results.  TDS was awarded an 8(a) sole source contract with one base year and two option years.
