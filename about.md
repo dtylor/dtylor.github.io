@@ -14,18 +14,6 @@ Deborah is a proud mother and wife and active member at our local, Catholic pari
 
 ---
 
-
-<img src="images/JH.jpg">
-## Joseph Haaga, Data Scientist
-Software designer and web developer with a data science knowledge base who can program graph analytics vision into reality.
-
-B.S. Computer Science, George Washington University
-
-M.S. Data Science, George Washington University
-
----
-
-
 <img src="images/ss.jpg">
 ## Sook Seo, Data Analyst
 Brings a background in Wall Street equity markets trading platforms to data analytics research. 
