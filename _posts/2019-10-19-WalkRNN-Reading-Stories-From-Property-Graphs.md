@@ -17,6 +17,7 @@ Co-Author:
 **Joseph Haaga**
 Georgia Institute of Technology
 jhaaga3@gatech.edu
+
 **Abstract**
 WalkRNN, the approach described herein, leverages research in learning continuous representations
 for nodes in networks, layers in features captured in property grah attributes and labels, and uses
@@ -27,8 +28,9 @@ through graph classificaiton tasks.
 **Keywords**
   Deep Learning * Graph Mining * Random Walk * Language Model * Graph Language * RNN * GraphWave
 
-Read [Node Alertness Detecting Changes In Rapidly Evolving Large Graphs](https://www.academia.edu/39730507/NODE_ALERTNESS_DETECTING_CHANGES_IN_RAPIDLY_EVOLVING_GRAPHS?email_work_card=title)
+Read [WalkRNN: Reading Stories From Property Graphs]
+](https://www.academia.edu/40672260/WALKRNN_READING_STORIES_FROM_PROPERTY_GRAPHS_A_PREPRINT)
 
-Published online at [Cornell University](https://arxiv.org/abs/1907.11623)
+Published online at [viXra](http://viXra.org/abs/1910.0362)
 
 
