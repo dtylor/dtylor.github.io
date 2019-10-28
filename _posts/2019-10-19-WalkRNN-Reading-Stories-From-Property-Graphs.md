@@ -20,10 +20,10 @@ jhaaga3@gatech.edu
 
 **Abstract**
 WalkRNN, the approach described herein, leverages research in learning continuous representations
-for nodes in networks, layers in features captured in property grah attributes and labels, and uses
+for nodes in networks, layers in features captured in property graph attributes and labels, and uses
 Deep Learning language modeling via Recurrent Neural Networks to read the grammar of an enriched
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
-through graph classificaiton tasks.
+through graph classification tasks.
 
 **Keywords**
   Deep Learning * Graph Mining * Random Walk * Language Model * Graph Language * RNN * GraphWave 
