@@ -12,6 +12,14 @@ Deep Learning language modeling via Recurrent Neural Networks to read the gramma
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
 through graph classification tasks.
 
+## IRS Picks Up TDS's Option Year
+## TDS Maintains the Knowledge Graph Application for The Research, Applied Analytics and Statistics Division at the IRS  
+## TDS Will Contribute Artifical Intelligence Research and Development
+## Sept 28, 2019
+Expanding upon RAAS's Knowledge Graph tools to enable graph analytics and help further the IRS mission,  
+the option year will be dedicated to the exploration of emerging techniques in graph analytics and graph computational models,
+incorporating applications of GPU and distributed frameworks. 
+
 ## Jul 2, 2019
 Cornell University Archives publishes
 1907.11623 [Node Alertness-Detecting changes in rapidly evolving graphs - arxiv.org](https://arxiv.org/abs/1907.11623)
@@ -24,7 +32,7 @@ Here we propose a financial local alertness application for cointegrated stock p
 ## Nov 28, 2018
 Tylor Data Services, LLC, a firm specializing in advanced graph analytics, deep learning and data science (www.tylordata.com) is working with the IRS’s Research, Applied Analytics & Statistics (RAAS) Data Exploration & Testing (DET) division to develop Knowledge Graph tools to enable graph analytics and help further the IRS mission.  
 
-TDS’ graph analytics solution builds on a Knowledge Graph environment and provides tools to enable end-users to search for graph patterns and examine data results.  The project goals include exploration of emerging techniques in graph analytics and graph computational models, and applications of GPU and distributed frameworkes. TDS was awarded an 8(a) sole source contract with one base year and two option years.
+TDS’ graph analytics solution builds on a Knowledge Graph environment and provides tools to enable end-users to search for graph patterns and examine data results.  The project goals include exploration of emerging techniques in graph analytics and graph computational models, and applications of GPU and distributed frameworks. TDS was awarded an 8(a) sole source contract with one base year and two option years.
 
 ## Sep 15, 2015
 FINRA has success tracking the migration of brokers with a pattern of sales practice abuse.  This successful investigation shows the potential of applying tribe and social network analysis to finding bad actors as they move from firm to firm.
