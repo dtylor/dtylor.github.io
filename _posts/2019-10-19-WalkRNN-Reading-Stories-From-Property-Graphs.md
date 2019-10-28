@@ -28,7 +28,7 @@ through graph classificaiton tasks.
 **Keywords**
   Deep Learning * Graph Mining * Random Walk * Language Model * Graph Language * RNN * GraphWave 
 
-Read [WalkRNN: Reading Stories From Property Graphs] (https://www.academia.edu/40672260/WALKRNN_READING_STORIES_FROM_PROPERTY_GRAPHS_A_PREPRINT)
+Read [WalkRNN: Reading Stories From Property Graphs (https://www.academia.edu/40672260/WALKRNN_READING_STORIES_FROM_PROPERTY_GRAPHS_A_PREPRINT)
 
 Published online at [viXra](http://viXra.org/abs/1910.0362)
 
