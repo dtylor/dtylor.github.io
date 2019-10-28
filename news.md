@@ -4,11 +4,13 @@ title: In the News
 ---
 ## Oct 19, 2019
 viXra Archives publishes
-1907.11623 [Node Alertness-Detecting changes in rapidly evolving graphs - arxiv.org](https://arxiv.org/abs/1907.11623)
+1910.0362 [WalkRNN: Reading Stories From Property Graphy](http://viXra.org/abs/1910.0362)
 
-Abstract: In this article we describe a new approach for detecting changes in rapidly evolving large-scale graphs. 
-The key notion involved is local alertness: nodes monitor change within their neighborhoods at each time step. 
-Here we propose a financial local alertness application for cointegrated stock pairs
+Abstract; WalkRNN, the approach described herein, leverages research in learning continuous representations
+for nodes in networks, layers in features captured in property graph attributes and labels, and uses
+Deep Learning language modeling via Recurrent Neural Networks to read the grammar of an enriched
+property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
+through graph classification tasks.
 
 ## Jul 2, 2019
 Cornell University Archives publishes
