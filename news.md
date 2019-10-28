@@ -2,6 +2,14 @@
 layout: default
 title: In the News
 ---
+## Oct 19, 2019
+viXra Archives publishes
+1907.11623 [Node Alertness-Detecting changes in rapidly evolving graphs - arxiv.org](https://arxiv.org/abs/1907.11623)
+
+Abstract: In this article we describe a new approach for detecting changes in rapidly evolving large-scale graphs. 
+The key notion involved is local alertness: nodes monitor change within their neighborhoods at each time step. 
+Here we propose a financial local alertness application for cointegrated stock pairs
+
 ## Jul 2, 2019
 Cornell University Archives publishes
 1907.11623 [Node Alertness-Detecting changes in rapidly evolving graphs - arxiv.org](https://arxiv.org/abs/1907.11623)
