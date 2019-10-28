@@ -12,13 +12,14 @@ Deep Learning language modeling via Recurrent Neural Networks to read the gramma
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
 through graph classification tasks.
 
-## IRS Picks Up TDS's Option Year
-## TDS Maintains the Knowledge Graph Application for The Research, Applied Analytics and Statistics Division at the IRS  
-## TDS Will Contribute Artifical Intelligence Research and Development
+## IRS Picks Up TDS's Option Year: TDS Will Contribute Artifical Intelligence Research and Development
+## TDS Maintains the Knowledge Graph Application for The Research, Applied Analytics and Statistics Division at the IRS 
 ## Sept 28, 2019
-Expanding upon RAAS's Knowledge Graph tools to enable graph analytics and help further the IRS mission,  
-the option year will be dedicated to the exploration of emerging techniques in graph analytics and graph computational models,
-incorporating applications of GPU and distributed frameworks. 
+Building upon RAAS's Knowledge Graph tools to enable graph analytics and help further the IRS mission.
+The option year will be dedicated to the exploration of emerging techniques in graph analytics and graph computational models,
+incorporating applications of GPU and distributed frameworks.
+
+Concurrently, TDS plans Research and Development in Artificial Intelligence (WalkRNN).
 
 ## Jul 2, 2019
 Cornell University Archives publishes
