@@ -6,7 +6,7 @@ title: In the News
 viXra Archives publishes
 1910.0362 [WalkRNN: Reading Stories From Property Graphy](http://viXra.org/abs/1910.0362)
 
-Abstract; WalkRNN, the approach described herein, leverages research in learning continuous representations
+Abstract: WalkRNN, the approach described herein, leverages research in learning continuous representations
 for nodes in networks, layers in features captured in property graph attributes and labels, and uses
 Deep Learning language modeling via Recurrent Neural Networks to read the grammar of an enriched
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
