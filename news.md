@@ -4,7 +4,7 @@ title: In the News
 ---
 ## Oct 19, 2019
 viXra Archives publishes
-1910.0362 [WalkRNN: Reading Stories From Property Graphy](http://viXra.org/abs/1910.0362)
+1910.0362 [WalkRNN: Reading Stories From Property Graphs](http://viXra.org/abs/1910.0362)
 
 Abstract: WalkRNN, the approach described herein, leverages research in learning continuous representations
 for nodes in networks, layers in features captured in property graph attributes and labels, and uses
@@ -12,8 +12,7 @@ Deep Learning language modeling via Recurrent Neural Networks to read the gramma
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
 through graph classification tasks.
 
-## IRS Picks Up TDS's Option Year: TDS Will Contribute Artifical Intelligence Research and Development
-## TDS Maintains the Knowledge Graph Application for The Research, Applied Analytics and Statistics Division at the IRS 
+## IRS Exercises TDS’s Option Year: TDS Will Contribute AI Research toward Knowledge Graph Development
 ## Sept 28, 2019
 Building upon RAAS's Knowledge Graph tools to enable graph analytics and help further the IRS mission.
 The option year will be dedicated to the exploration of emerging techniques in graph analytics and graph computational models,
