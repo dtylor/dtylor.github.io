@@ -2,6 +2,12 @@
 layout: default
 title: In the News
 ---
+## Aug 25, 2020
+## Women Presidents' Educational Organization - DC approves Tylor Data Services, LLC for 
+## WBENC Women's Business Enterprise (WBE) Certificatation
+[TDS WBE Certification](  )
+
+---
 ## Oct 19, 2019
 viXra Archives publishes
 1910.0362 [WalkRNN: Reading Stories From Property Graphs](http://viXra.org/abs/1910.0362)
