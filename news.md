@@ -4,7 +4,7 @@ title: In the News
 ---
 ## Aug 25, 2020
 Tylor Data Services, LLC obtains WBENC Women's Business Enterprise (WBE) certification
-From Women Presidents' Educational Organization - DC
+From Women Presidents' Educational Organization - DC as Woman Owned Small Business (WOSB).
 
 ---
 ## Oct 19, 2019
