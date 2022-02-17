@@ -6,6 +6,10 @@ title: In the News
 ##IRS exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and further development of the Knowledge Graph API (KAGPI) user-facing tool.  
 IRS Research, Applied Analytics, and Statistics (RAAS) is increasingly creating graph data models to facilitate fast, efficient queries and visualization of complex relationships between people, places, and things.  Using the KGAPI tool, RAAS supports business customers in provididing data driven insights to understand taxpayer behavior and make better informed decisions about service and enforcement.  The KGAPI tool is built on top of Neo4J technology, to explore and understand knowledge graph data.
 
+## Sep 7, 2021
+##TDS work featured in NVIDIA blog describing collaboration with Cloudera, NVIDIA, TDS and the IRS to accelerate graph analytics using Spark and GPU compute.
+See [Sparking Transformation: How GPUs Busted Through a Once-Impossible Analytics Job](https://blogs.nvidia.com/blog/2021/09/07/cloudera-spark-irs-gpus/)
+
 ## Aug 25, 2020
 Tylor Data Services, LLC obtains WBENC Women's Business Enterprise (WBE) certification
 From Women Presidents' Educational Organization - DC as Woman Owned Small Business (WOSB).
