@@ -10,4 +10,4 @@ B.A. Physics and B.E. Environmental Engineering, Dartmouth College
 
 M.S. Physical Oceanography, University of Hawaii, SOEST (results from research were published in the Journal of Physical Oceanography).
 
-Deborah is a mother and wife and active member at our local, Catholic parish.
+Deborah is a mother and wife and active member at her local, Catholic parish.
