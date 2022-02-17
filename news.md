@@ -3,11 +3,11 @@ layout: default
 title: In the News
 ---
 ## Sep 17,2021
-## IRS exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and further development of the Knowledge Graph API (KAGPI) user-facing tool.  
-IRS Research, Applied Analytics, and Statistics (RAAS) is increasingly creating graph data models to facilitate fast, efficient queries and visualization of complex relationships between people, places, and things.  Using the KGAPI tool (designed and built through TDS prime contract), RAAS supports business customers in providing data driven insights to understand taxpayer behavior and make better informed decisions about service and enforcement.  The KGAPI tool is built on top of Neo4J technology to explore and understand knowledge graph data.
+## IRS Exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and Further Development of the Knowledge Graph API (KGAPI) User-Facing Tool.  
+In recent years, IRS Research, Applied Analytics, and Statistics (RAAS) is increasingly creating graph data models to facilitate fast, efficient queries and visualization of complex relationships between people, places, and things.  Using the KGAPI tool (designed and built through TDS prime contract), RAAS supports business customers in providing data driven insights to understand taxpayer behavior and make better informed decisions about service and enforcement.  The KGAPI tool is built on top of Neo4J technology to explore and understand knowledge graph data.
 
 ## Sep 7, 2021
-## TDS work featured in NVIDIA blog: Collaboration between Cloudera, NVIDIA, TDS and the IRS to accelerate graph analytics using Spark and GPU compute.
+## TDS Work Featured in NVIDIA Blog: Collaboration between Cloudera, NVIDIA, TDS and the IRS to Accelerate Graph Analytics using Spark and GPU Compute.
 See [Sparking Transformation: How GPUs Busted Through a Once-Impossible Analytics Job](https://blogs.nvidia.com/blog/2021/09/07/cloudera-spark-irs-gpus/)
 
 ## Aug 25, 2020
