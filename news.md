@@ -2,7 +2,7 @@
 layout: default
 title: In the News
 ---
-## Sep 17,2021
+## Sep 17, 2021
 ## IRS Exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and Further Development of the Knowledge Graph API (KGAPI) User-Facing Tool.  
 In recent years, IRS Research, Applied Analytics, and Statistics (RAAS) is increasingly creating graph data models to facilitate fast, efficient queries and visualization of complex relationships between people, places, and things.  Using the KGAPI tool (designed and built through TDS prime contract), RAAS supports business customers in providing data driven insights to understand taxpayer behavior and make better informed decisions about service and enforcement.  The KGAPI tool is built on top of Neo4J technology to explore and understand knowledge graph data.
 
