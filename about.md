@@ -10,14 +10,4 @@ B.A. Physics and B.E. Environmental Engineering, Dartmouth College
 
 M.S. Physical Oceanography, University of Hawaii, SOEST (results from research were published in the Journal of Physical Oceanography).
 
-Deborah is a proud mother and wife and active member at our local, Catholic parish.
-
----
-
-<img src="images/ss.jpg">
-## Sook Seo, Data Analyst
-Brings a background in Wall Street equity markets trading platforms to data analytics research. 
-
-B.S. Accounting, University of Maryland University College
-
-B.A. English, University of Chicago
+Deborah is a mother and wife and active member at our local, Catholic parish.
