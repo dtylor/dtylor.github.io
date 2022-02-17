@@ -3,18 +3,17 @@ layout: default
 title: In the News
 ---
 ## Sep 17,2021
-##IRS exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and further development of the Knowledge Graph API (KAGPI) user-facing tool.  
+## IRS exercises TDS Option Year: TDS to Continue Research Advancing Unanchored Graph Search and further development of the Knowledge Graph API (KAGPI) user-facing tool.  
 IRS Research, Applied Analytics, and Statistics (RAAS) is increasingly creating graph data models to facilitate fast, efficient queries and visualization of complex relationships between people, places, and things.  Using the KGAPI tool, RAAS supports business customers in provididing data driven insights to understand taxpayer behavior and make better informed decisions about service and enforcement.  The KGAPI tool is built on top of Neo4J technology, to explore and understand knowledge graph data.
 
 ## Sep 7, 2021
-##TDS work featured in NVIDIA blog describing collaboration with Cloudera, NVIDIA, TDS and the IRS to accelerate graph analytics using Spark and GPU compute.
+## TDS work featured in NVIDIA blog describing collaboration with Cloudera, NVIDIA, TDS and the IRS to accelerate graph analytics using Spark and GPU compute.
 See [Sparking Transformation: How GPUs Busted Through a Once-Impossible Analytics Job](https://blogs.nvidia.com/blog/2021/09/07/cloudera-spark-irs-gpus/)
 
 ## Aug 25, 2020
 Tylor Data Services, LLC obtains WBENC Women's Business Enterprise (WBE) certification
 From Women Presidents' Educational Organization - DC as Woman Owned Small Business (WOSB).
 
----
 ## Oct 19, 2019
 viXra Archives publishes
 1910.0362 [WalkRNN: Reading Stories From Property Graphs](http://viXra.org/abs/1910.0362)
@@ -25,8 +24,8 @@ Deep Learning language modeling via Recurrent Neural Networks to read the gramma
 property graph. We then demonstrate translating this learned graph literacy into actionable knowledge
 through graph classification tasks.
 
-## IRS Exercises TDS’s Option Year: TDS Will Contribute AI Research toward Knowledge Graph Development
 ## Sept 28, 2019
+## IRS Exercises TDS’s Option Year: TDS Will Contribute AI Research toward Knowledge Graph Development
 Building upon RAAS's Knowledge Graph tools to enable graph analytics and help further the IRS mission.
 The option year will be dedicated to the exploration of emerging techniques in graph analytics and graph computational models,
 incorporating applications of GPU and distributed frameworks.
